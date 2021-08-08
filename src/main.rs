@@ -1,6 +1,5 @@
-mod simple_beads_count_7kyu;
+mod quarter_of_the_year_8kyu;
 
 fn main() {
-    let beads = simple_beads_count_7kyu::count_red_beads(3);
-    println!("{}", beads);
+    quarter_of_the_year_8kyu::quarter_of(10);
 }
